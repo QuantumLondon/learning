@@ -21,13 +21,15 @@ Anyone can contribute, at any time! However, in order to keep things from gettin
 
 The emphasis here is on _pedagogy_, with a mixture of code and text. As always, it will take some iterations to figure out what works best: A useful starting point is to submit entries as [Jupyter notebooks](https://jupyter.org/).
 
+Basic aspects of good software practice are relevant here, but there is such a thing as over-doing it at this stage. Keeping the repo as close to its purpose as possible will reap long-term benefits.
+
 Below are some ideas on how to make your content accessible:
  - Both direct descriptions and over-explained walkthroughs of a solution are useful.
  - Try to use a clean-code styleguide with appropriately-named variables ([PEP8](https://pep8.org/) is familiar to most Pythonistas).
  - Split circuits into smaller, appropriately-named subcomponents. The more parts one has to figure out the more difficult it is.
  - Simple-but-not-trivial, and general-case versions of provided code are often good teaching aids.
  - Importantly, please don't leave any sensitive information here (such as API keys, etc). There are various tools out there to help check, such as [nbstripout](https://github.com/kynan/nbstripout) and [high-entropy-string](https://github.com/lyft/high-entropy-string).
- - Try to either explain terms-of-art, or provide a link to a clear explanation. 
+ - Language used should generally be neutral, on-topic, and culturally-inclusive. Grammar can matter in communication, so readers might ask for re-wording if things aren't clear. Try to either explain terms-of-art, or provide a link to a clear explanation. 
 
 Mathematics can be added using [LaTex](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd) - this works in both Markdown and Jupyter Notebook files. There are other useful resources for LaTex [here](https://davidhamann.de/2017/06/12/latex-cheat-sheet/) and [here](http://tug.ctan.org/info/latex-refsheet/LaTeX_RefSheet.pdf) If you'd prefer to add handwritten maths, one option is to import a small photo of your derivations into the Jupyter notebook.
 
