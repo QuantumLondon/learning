@@ -8,7 +8,7 @@ Resources:
 - sample exam questions
 - solutions for sample exam
 
-Solutions are provided in different formats (Jupyter Notebooks, HTML) for your convenience. HTML files can be downloaded, and **viewed in your favorite Internet browser**. Jupyter Notebooks can be executed using [Qiskit on your local machine](https://qiskit.org/documentation/getting_started.html) or uploaded to [IBM Quantum Lab](https://quantum-computing.ibm.com/lab/) and executed using cloud environment.
+Solutions are provided in different formats (Jupyter Notebooks, HTML) for your convenience. HTML files can be downloaded, and **viewed in your favorite Internet browser**. Jupyter Notebooks can be viewed directly in GitHub, but it's also possible to run then using [Qiskit on your local machine](https://qiskit.org/documentation/getting_started.html) or [IBM Quantum Lab](https://quantum-computing.ibm.com/lab/).
 
 ## Disclaimer
 
